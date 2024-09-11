@@ -1,0 +1,2 @@
+# Yeniden boyutlandirma
+ 
